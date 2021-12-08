@@ -18,3 +18,7 @@ The DAO will carefully select applicants from every necessary field in the web3 
 Evolve DAO hopes to secure funding in the name of $100,000 USD through the means of grants and investors. This round of funding will help secure a distinguished team that facilitate the needs of clients. A treasury is essential to allow the DAO to thrive, therefore, 70% of the funding will go towards establishing a substantial treasury. Early investors stand at greater chance of being compensated through airdrops of the governance token, Evolve. The token will be an ERC-20 Ethereum token that can be used to vote on issues set forward by the DAO. These issues can vary anywhere from the meta, regarding the DAO, and the physical, regarding the project. Governance tokens are not only distributed via airdrop, they can also be rewarded by the treasury in the name of influential contributions to the DAO. Further, tokens can be purchased on exchanges such as uniswap.org where the token is listed.
 
 Evolve to the future.
+
+https://twitter.com/EvolveDAO
+
+https://discord.gg/35KJarVVPy
